@@ -1,0 +1,5 @@
+/frontend/svelte-start-app/node_modules/
+/frontend/svelte-start-app/public/build/
+/frontend/.idea/
+.DS_Store
+.idea/
